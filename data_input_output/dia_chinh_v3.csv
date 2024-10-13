@@ -1,0 +1,1101 @@
+﻿Street_ID,Street_Name,Error_Type
+1,"SN 19C, Đặng Văn Ngữ",không lỗi
+1,"SN 364, Đặng ăVn Ngữ",lỗi đổi thứ tự các từ
+1,"SN 41B, Ñaëng Vaên Ngöõ",lỗi font
+1,"SN 526C, Đặng Văn Ngữ",lỗi thiếu từ + đổi thứ tự các từ
+1,"SN 601, Đặng Văn",lỗi sai chính tả + thiếu từ
+1,"SN 683/50, Đặng Văn Ngữ",không lỗi
+1,"SN 695/69, Không xác định Đặng Văn Ngữ",lỗi thêm từ gây nhiễu
+1,"SN 78, Đặng Vnă Ngữ",lỗi sai chính tả + đổi thứ tự các từ
+1,"SN 809A, Đặng Văn Ngự",lỗi sai chính tả
+1,"SN 904B, Văn Ngữ",lỗi thiếu từ
+1,"SN 943/79, Nhà trống Đặng Văn Ngử",lỗi sai chính tả + thêm từ gây nhiễu
+2,"SN 198B, Ngyuễn Văn Cừ",lỗi đổi thứ tự các từ
+2,"SN 243B, Nguyễn Văn Cừ",không lỗi
+2,"SN 252B, Nguyễn Văn Cừ",không lỗi
+2,"SN 377C, Nguyễn Văn",lỗi thiếu từ
+2,"SN 458/60B, Nguyên Văn",lỗi sai chính tả + thiếu từ
+2,"SN 492C, Không biết Nguyển Văn Cứ",lỗi sai chính tả + thêm từ gây nhiễu
+2,"SN 533/3C, Phố Nguyễn Văn Cừ",lỗi thêm từ gây nhiễu
+2,"SN 69/19A, Nguyễn Vnă Cừ",lỗi sai chính tả + đổi thứ tự các từ
+2,"SN 700/62, Nguyên Văn Cự",lỗi sai chính tả
+2,"SN 724A, Nguyeãn Vaên Cöø",lỗi font
+2,"SN 732/23, Nguyễn Văn Cừ",lỗi thiếu từ + đổi thứ tự các từ
+3,"SN 12, Trẩn Hừng",lỗi sai chính tả + thiếu từ
+3,"SN 132/77, Trần Hưng Đạo",không lỗi
+3,"SN 272B, Trần Hưng ạĐo",lỗi đổi thứ tự các từ
+3,"SN 451B, Traàn Höng Ñaïo",lỗi font
+3,"SN 582C, Phường Trần Hưng Đạo",lỗi thêm từ gây nhiễu
+3,"SN 683, Trnầ Hưng Đạo",lỗi sai chính tả + đổi thứ tự các từ
+3,"SN 711, Trần Hưng Đạo",lỗi thiếu từ + đổi thứ tự các từ
+3,"SN 828/86, Trần Đạo",lỗi thiếu từ
+3,"SN 880/36C, Trấn Hứng Đáo",lỗi sai chính tả
+3,"SN 952/18, Phố Trấn Hững Đào",lỗi sai chính tả + thêm từ gây nhiễu
+3,"SN 975/98B, Trần Hưng Đạo",không lỗi
+4,"SN 112, Phmạ Văn Đồng",lỗi đổi thứ tự các từ
+4,"SN 222/8A, Phạm Văn Đồng",lỗi thiếu từ + đổi thứ tự các từ
+4,"SN 277/7, hPạm Văn Đồng",lỗi sai chính tả + đổi thứ tự các từ
+4,"SN 35/6B, Phám Văn",lỗi sai chính tả + thiếu từ
+4,"SN 507C, Văn Đồng",lỗi thiếu từ
+4,"SN 663/40, Phạm Văn Đồng",không lỗi
+4,"SN 724B, Phố Phạm Văn Đồng",lỗi thêm từ gây nhiễu
+4,"SN 751/18, Phạm Văn Đồng",không lỗi
+4,"SN 814, Phường Phám Văn Đỗng",lỗi sai chính tả + thêm từ gây nhiễu
+4,"SN 971/23, Phaïm Vaên Ñoàng",lỗi font
+4,"SN 992/3, Phàm Văn Đông",lỗi sai chính tả
+5,"SN 113/14B, Nguyến Tri",lỗi sai chính tả + thiếu từ
+5,"SN 16A, Tri Phương",lỗi thiếu từ
+5,"SN 238/99B, Nguyễn Tri hPương",lỗi sai chính tả + đổi thứ tự các từ
+5,"SN 381, Nguyeãn Tri Phöông",lỗi font
+5,"SN 394/77A, Nguyễn Tri Phương",lỗi thiếu từ + đổi thứ tự các từ
+5,"SN 46C, Không biết Nguyễn Tri Phương",lỗi thêm từ gây nhiễu
+5,"SN 518C, Nguyễn Tri Phương",không lỗi
+5,"SN 519, Không biết Nguyện Tri Phửớng",lỗi sai chính tả + thêm từ gây nhiễu
+5,"SN 57/72A, Nguyễn Tri Phương",không lỗi
+5,"SN 649/86, gNuyễn Tri Phương",lỗi đổi thứ tự các từ
+5,"SN 661, Nguyền Tri Phữởng",lỗi sai chính tả
+6,"SN 286, Leâ Vaên Syõ",lỗi font
+6,"SN 320/55B, Lê Văn Sỹ",không lỗi
+6,"SN 389/62, êL Văn Sỹ",lỗi đổi thứ tự các từ
+6,"SN 550/52, CSH Lề Văn Sỳ",lỗi sai chính tả + thêm từ gây nhiễu
+6,"SN 626/52B, Ngõ Lê Văn Sỹ",lỗi thêm từ gây nhiễu
+6,"SN 721, Lê Văn Sỹ",không lỗi
+6,"SN 729C, Lệ Văn Sỷ",lỗi sai chính tả
+6,"SN 804/82B, Lê Văn Sỹ",lỗi thiếu từ + đổi thứ tự các từ
+6,"SN 819/1B, Lệ Sỳ",lỗi sai chính tả + thiếu từ
+6,"SN 82/32, Lê Văn ỹS",lỗi sai chính tả + đổi thứ tự các từ
+6,"SN 948A, Lê Văn",lỗi thiếu từ
+7,"SN 111, Đình Phùng",lỗi thiếu từ
+7,"SN 216/24, Không biết Phan Đỉnh Phụng",lỗi sai chính tả + thêm từ gây nhiễu
+7,"SN 413B, Phan Đình hPùng",lỗi đổi thứ tự các từ
+7,"SN 445/56, Định Phũng",lỗi sai chính tả + thiếu từ
+7,"SN 466/86, Phan Ñình Phuøng",lỗi font
+7,"SN 487/94, Phan Đình Pùhng",lỗi sai chính tả + đổi thứ tự các từ
+7,"SN 501/74C, Phan Đình Phùng",không lỗi
+7,"SN 783B, Nhà trống Phan Đình Phùng",lỗi thêm từ gây nhiễu
+7,"SN 798/40C, Phan Đình Phùng",không lỗi
+7,"SN 925B, Phan Đình Phùng",lỗi thiếu từ + đổi thứ tự các từ
+7,"SN 929/81B, Phan Đỉnh Phúng",lỗi sai chính tả
+8,"SN 199A, Hoàng Văn Thụ",không lỗi
+8,"SN 206, Honàg Văn Thụ",lỗi đổi thứ tự các từ
+8,"SN 327, Hoàng Văn Thụ",lỗi thiếu từ + đổi thứ tự các từ
+8,"SN 38C, Nhà trống Hoảng Văn Thủ",lỗi sai chính tả + thêm từ gây nhiễu
+8,"SN 590/30, CSH Hoàng Văn Thụ",lỗi thêm từ gây nhiễu
+8,"SN 616A, Hoàng Văn Tụh",lỗi sai chính tả + đổi thứ tự các từ
+8,"SN 646/18C, Hoaøng Vaên Thuï",lỗi font
+8,"SN 749/1, Hoãng Văn",lỗi sai chính tả + thiếu từ
+8,"SN 788, Hoáng Văn Thù",lỗi sai chính tả
+8,"SN 823, Hoàng Văn Thụ",không lỗi
+8,"SN 950, Hoàng Thụ",lỗi thiếu từ
+9,"SN 214/59A, Lyù Thöôøng Kieät",lỗi font
+9,"SN 36C, ýL Thường Kiệt",lỗi đổi thứ tự các từ
+9,"SN 405/53, Thường Kiệt",lỗi thiếu từ
+9,"SN 463/63, Lý Thường Kiệt",không lỗi
+9,"SN 486, Lý Thường Kiệt",lỗi thiếu từ + đổi thứ tự các từ
+9,"SN 545A, Phố Lý Thường Kiệt",lỗi thêm từ gây nhiễu
+9,"SN 558/11C, Lý Tưhờng Kiệt",lỗi sai chính tả + đổi thứ tự các từ
+9,"SN 598/66A, Lý Thường Kiệt",không lỗi
+9,"SN 753/79, CSH Lỵ Thữỡng Kiểt",lỗi sai chính tả + thêm từ gây nhiễu
+9,"SN 782/14B, Thửơng Kiểt",lỗi sai chính tả + thiếu từ
+9,"SN 827/54, Lỹ Thứởng Kiễt",lỗi sai chính tả
+10,"SN 233/85B, Bà Huyện Thanh Quan",lỗi thiếu từ + đổi thứ tự các từ
+10,"SN 251/27, Bà Huyện Thanh Quan",không lỗi
+10,"SN 422/97A, Ngõ Bà Huyện Thanh Quan",lỗi thêm từ gây nhiễu
+10,"SN 641B, Bạ Huyên Thanh Quan",lỗi sai chính tả
+10,"SN 645/9C, Baø Huyeän Thanh Quan",lỗi font
+10,"SN 658/71, Bà Huyện Thanh Quan",không lỗi
+10,"SN 684, àB Huyện Thanh Quan",lỗi sai chính tả + đổi thứ tự các từ
+10,"SN 728, Không xác định Bá Huyển Thanh Quan",lỗi sai chính tả + thêm từ gây nhiễu
+10,"SN 765/75, Bà Huynệ Thanh Quan",lỗi đổi thứ tự các từ
+10,"SN 787, Bà Huyện Quan",lỗi thiếu từ
+10,"SN 866, Bá Thanh Quan",lỗi sai chính tả + thiếu từ
+11,"SN 109/9, Tôn Đức Thắng",không lỗi
+11,"SN 112, Tôn Đcứ Thắng",lỗi đổi thứ tự các từ
+11,"SN 154C, Tôn Đức Thắng",không lỗi
+11,"SN 234/51C, Toân Ñöùc Thaéng",lỗi font
+11,"SN 31, Không xác định Tỗn Đừc Thắng",lỗi sai chính tả + thêm từ gây nhiễu
+11,"SN 318B, Tôn Đức Thắng",lỗi thiếu từ + đổi thứ tự các từ
+11,"SN 718/74A, Tộn Thắng",lỗi sai chính tả + thiếu từ
+11,"SN 770, Tôn Đức Thnắg",lỗi sai chính tả + đổi thứ tự các từ
+11,"SN 910, Nhà trống Tôn Đức Thắng",lỗi thêm từ gây nhiễu
+11,"SN 948/22, Đức Thắng",lỗi thiếu từ
+11,"SN 974/6, Tổn Đưc Thắng",lỗi sai chính tả
+12,"SN 226/65, Nguyên Văn Trổi",lỗi sai chính tả
+12,"SN 303/20, Nguyễn Văn Trỗi",không lỗi
+12,"SN 358/71, Văn Trỗi",lỗi thiếu từ
+12,"SN 490B, Ngyuễn Văn Trỗi",lỗi đổi thứ tự các từ
+12,"SN 743, Nguyễn Văn Trỗi",không lỗi
+12,"SN 75/30, CSH Nguyễn Văn Trỗi",lỗi thêm từ gây nhiễu
+12,"SN 819/98, Nguyến Trội",lỗi sai chính tả + thiếu từ
+12,"SN 849/60, Nguyễn Văn Trỗi",lỗi thiếu từ + đổi thứ tự các từ
+12,"SN 877/19C, Nguyễn Vnă Trỗi",lỗi sai chính tả + đổi thứ tự các từ
+12,"SN 967/90, Không biết Nguyển Văn Trội",lỗi sai chính tả + thêm từ gây nhiễu
+12,"SN 972/61, Nguyeãn Vaên Troãi",lỗi font
+13,"SN 126/96, Nguyễn Thị Minh Khai",không lỗi
+13,"SN 147, Nguyển Thì Khai",lỗi sai chính tả + thiếu từ
+13,"SN 171/9, Nguyến Thĩ Minh Khai",lỗi sai chính tả
+13,"SN 240/39A, Không biết Nguyền Thĩ Minh Khai",lỗi sai chính tả + thêm từ gây nhiễu
+13,"SN 354/63, Nhà trống Nguyễn Thị Minh Khai",lỗi thêm từ gây nhiễu
+13,"SN 412A, Nguyeãn Thò Minh Khai",lỗi font
+13,"SN 585, Nguyễn hTị Minh Khai",lỗi sai chính tả + đổi thứ tự các từ
+13,"SN 590, Nguyễn Thị Minh Khai",không lỗi
+13,"SN 627/83C, Nguyễn Thị Mnih Khai",lỗi đổi thứ tự các từ
+13,"SN 725/86C, Nguyễn Minh Khai",lỗi thiếu từ
+13,"SN 748/3, Nguyễn Thị Minh Khai",lỗi thiếu từ + đổi thứ tự các từ
+14,"SN 113, Hẻm Võ Văn Tần",lỗi thêm từ gây nhiễu
+14,"SN 192/86A, Võ Văn Tần",lỗi thiếu từ + đổi thứ tự các từ
+14,"SN 360B, Võ Văn Tần",không lỗi
+14,"SN 37, Vọ Văn Tân",lỗi sai chính tả
+14,"SN 391, Nhà trống Vó Văn Tận",lỗi sai chính tả + thêm từ gây nhiễu
+14,"SN 40/31, Võ Vnă Tần",lỗi sai chính tả + đổi thứ tự các từ
+14,"SN 504, Vỏ Tẩn",lỗi sai chính tả + thiếu từ
+14,"SN 530, Võ ăVn Tần",lỗi đổi thứ tự các từ
+14,"SN 554/5C, Võ Văn Tần",không lỗi
+14,"SN 723, Voõ Vaên Taàn",lỗi font
+14,"SN 777/63, Võ Văn",lỗi thiếu từ
+15,"SN 272/57A, Lê Thánh Tôn",không lỗi
+15,"SN 380C, Lề Thảnh Tỗn",lỗi sai chính tả
+15,"SN 404B, Lê Thánh Tôn",không lỗi
+15,"SN 454, Leâ Thaùnh Toân",lỗi font
+15,"SN 48, Phố Lể Thạnh Tổn",lỗi sai chính tả + thêm từ gây nhiễu
+15,"SN 583/44C, Nhà 2 tầng Lê Thánh Tôn",lỗi thêm từ gây nhiễu
+15,"SN 796/91A, Thánh Tôn",lỗi thiếu từ
+15,"SN 859/81, Lể Thãnh",lỗi sai chính tả + thiếu từ
+15,"SN 877/51, êL Thánh Tôn",lỗi đổi thứ tự các từ
+15,"SN 938/13B, Lê Thánh Tôn",lỗi thiếu từ + đổi thứ tự các từ
+15,"SN 961/91B, Lê Táhnh Tôn",lỗi sai chính tả + đổi thứ tự các từ
+16,"SN 162/79A, Đinh Tiễn Hoãng",lỗi sai chính tả
+16,"SN 18019, Đinh Tiên",lỗi thiếu từ
+16,"SN 19/82, Đinh Tiên Hoàng",không lỗi
+16,"SN 331/36A, Nhà 2 tầng Đinh Tiền Hoảng",lỗi sai chính tả + thêm từ gây nhiễu
+16,"SN 413/63, Tiền Hoạng",lỗi sai chính tả + thiếu từ
+16,"SN 448/97B, Ấp Đinh Tiên Hoàng",lỗi thêm từ gây nhiễu
+16,"SN 53/2, Đinh Tiên Hoàng",lỗi thiếu từ + đổi thứ tự các từ
+16,"SN 703/9C, Đinh Tinê Hoàng",lỗi sai chính tả + đổi thứ tự các từ
+16,"SN 71/35C, Ñinh Tieân Hoaøng",lỗi font
+16,"SN 765C, Đinh Tiên Hoàng",không lỗi
+16,"SN 865/68C, Đinh Têin Hoàng",lỗi đổi thứ tự các từ
+17,"SN 120C, Nguyển Hừu",lỗi sai chính tả + thiếu từ
+17,"SN 133, Hữu Cảnh",lỗi thiếu từ
+17,"SN 173, Nguyễn Hữu Cảnh",lỗi thiếu từ + đổi thứ tự các từ
+17,"SN 221/36, Nhà 2 tầng Nguyên Hửu Cãnh",lỗi sai chính tả + thêm từ gây nhiễu
+17,"SN 328/31, Nguyễn Hữu Cảnh",không lỗi
+17,"SN 419/24, Nguyễn Hữu Cảhn",lỗi đổi thứ tự các từ
+17,"SN 429/23, Nguyeãn Höõu Caûnh",lỗi font
+17,"SN 61, Không biết Nguyễn Hữu Cảnh",lỗi thêm từ gây nhiễu
+17,"SN 625/76, Nguyễn Hữu Cảnh",không lỗi
+17,"SN 957C, Nguyến Hứu Cánh",lỗi sai chính tả
+17,"SN 992A, Nugyễn Hữu Cảnh",lỗi sai chính tả + đổi thứ tự các từ
+18,"SN 119/48C, Phan Chu Trinh",không lỗi
+18,"SN 272, Phan Chu rTinh",lỗi đổi thứ tự các từ
+18,"SN 30/69A, Chu Trinh",lỗi sai chính tả + thiếu từ
+18,"SN 342A, Phan Chu Trinh",lỗi sai chính tả
+18,"SN 441/54A, Không xác định Phan Chu Trinh",lỗi sai chính tả + thêm từ gây nhiễu
+18,"SN 572/7, Phan Chu Tirnh",lỗi sai chính tả + đổi thứ tự các từ
+18,"SN 701B, Phan Chu Trinh",lỗi font
+18,"SN 766C, Nhà 2 tầng Phan Chu Trinh",lỗi thêm từ gây nhiễu
+18,"SN 857, Phan Trinh",lỗi thiếu từ
+18,"SN 892, Phan Chu Trinh",lỗi thiếu từ + đổi thứ tự các từ
+18,"SN 910/86, Phan Chu Trinh",không lỗi
+19,"SN 100/62, Lỵ Tử Trỏng",lỗi sai chính tả
+19,"SN 295B, CSH Lỳ Tư Tróng",lỗi sai chính tả + thêm từ gây nhiễu
+19,"SN 416/32C, Lyù Töï Troïng",lỗi font
+19,"SN 443/41, CSH Lý Tự Trọng",lỗi thêm từ gây nhiễu
+19,"SN 486, Lý Tự Trọng",không lỗi
+19,"SN 50, Lý Tự Trọng",lỗi thiếu từ + đổi thứ tự các từ
+19,"SN 658, Lý Tự Trọng",không lỗi
+19,"SN 717A, Lý ựT Trọng",lỗi sai chính tả + đổi thứ tự các từ
+19,"SN 720, Tư Trỏng",lỗi sai chính tả + thiếu từ
+19,"SN 763, Lý Tự rTọng",lỗi đổi thứ tự các từ
+19,"SN 842A, Lý Trọng",lỗi thiếu từ
+20,"SN 168/33B, Huyønh Vaên Baùnh",lỗi font
+20,"SN 172, Nhà 2 tầng Huỵnh Văn Bạnh",lỗi sai chính tả + thêm từ gây nhiễu
+20,"SN 323/45, Phố Huỳnh Văn Bánh",lỗi thêm từ gây nhiễu
+20,"SN 367/36C, Huỳnh Văn Báhn",lỗi sai chính tả + đổi thứ tự các từ
+20,"SN 371B, Huỳnh Văn áBnh",lỗi đổi thứ tự các từ
+20,"SN 45511, Huỳnh Văn Bánh",không lỗi
+20,"SN 458A, Văn Bánh",lỗi thiếu từ
+20,"SN 55/20, Huỷnh Văn",lỗi sai chính tả + thiếu từ
+20,"SN 751/83B, Huỳnh Văn Bánh",lỗi thiếu từ + đổi thứ tự các từ
+20,"SN 884/67, Huỳnh Văn Bánh",không lỗi
+20,"SN 906/67A, Huỹnh Văn Bảnh",lỗi sai chính tả
+21,"SN 111C, Võ hTị Sáu",lỗi đổi thứ tự các từ
+21,"SN 233/73, Võ Thị Sáu",không lỗi
+21,"SN 291/34B, Võ Thị Sáu",không lỗi
+21,"SN 405/91A, Võ Thị",lỗi thiếu từ
+21,"SN 407A, Võ Thị Sáu",lỗi thiếu từ + đổi thứ tự các từ
+21,"SN 451/62, Võ Tịh Sáu",lỗi sai chính tả + đổi thứ tự các từ
+21,"SN 559/90A, Voõ Thò Saùu",lỗi font
+21,"SN 81, Phường Võ Thị Sáu",lỗi thêm từ gây nhiễu
+21,"SN 841/29, Ấp Vó Thĩ Sàu",lỗi sai chính tả + thêm từ gây nhiễu
+21,"SN 874/88, Vọ Thỉ Sạu",lỗi sai chính tả
+21,"SN 980B, Thì Sàu",lỗi sai chính tả + thiếu từ
+22,"SN 697C, CSH Nguyễn Khắc Viện",lỗi thêm từ gây nhiễu
+22,"SN 714/21, Nguyền Khắc Viên",lỗi sai chính tả
+22,"SN 748, Không biết Nguyển Khắc Viến",lỗi sai chính tả + thêm từ gây nhiễu
+22,"SN 811/95A, Nguyeãn Khaéc Vieän",lỗi font
+22,"SN 824, Nguyễn Khắc Viện",lỗi thiếu từ + đổi thứ tự các từ
+22,"SN 845, Nguyễn Khắc Viện",không lỗi
+22,"SN 851, Nguyễn Khắc Vinệ",lỗi sai chính tả + đổi thứ tự các từ
+22,"SN 918/45B, Nguyễn Khắc Viện",không lỗi
+22,"SN 955/97, Nguyện Viền",lỗi sai chính tả + thiếu từ
+22,"SN 964/7, Ngyuễn Khắc Viện",lỗi đổi thứ tự các từ
+22,"SN 987/41, Nguyễn Khắc",lỗi thiếu từ
+23,"SN 236C, Cách Mạng Tháng Tám",lỗi thiếu từ + đổi thứ tự các từ
+23,"SN 430/29B, Cách Mạng Tháng",lỗi thiếu từ
+23,"SN 433C, Phố Cạch Mảng Thảng Tàm",lỗi sai chính tả + thêm từ gây nhiễu
+23,"SN 457/19, Càch Mảng Thảng Tãm",lỗi sai chính tả
+23,"SN 525C, Cãch Máng Thảng",lỗi sai chính tả + thiếu từ
+23,"SN 540/64B, Cách Mạng Tháng áTm",lỗi sai chính tả + đổi thứ tự các từ
+23,"SN 628A, Cách Mạng Tháng Tám",không lỗi
+23,"SN 644/40, Cáhc Mạng Tháng Tám",lỗi đổi thứ tự các từ
+23,"SN 722/46, Phố Cách Mạng Tháng Tám",lỗi thêm từ gây nhiễu
+23,"SN 847/85C, Caùch Maïng Thaùng Taùm",lỗi font
+23,"SN 994C, Cách Mạng Tháng Tám",không lỗi
+24,"SN 149C, Đào Duy Ahn",lỗi đổi thứ tự các từ
+24,"SN 260/71, Đào Duy Anh",không lỗi
+24,"SN 413/99, Nhà trống Đào Duy Anh",lỗi thêm từ gây nhiễu
+24,"SN 477/90, Đạo Duy",lỗi sai chính tả + thiếu từ
+24,"SN 495A, àĐo Duy Anh",lỗi sai chính tả + đổi thứ tự các từ
+24,"SN 497/69, Đào Duy",lỗi thiếu từ
+24,"SN 609/28, Đào Duy Anh",không lỗi
+24,"SN 80/48C, Đào Duy Anh",lỗi thiếu từ + đổi thứ tự các từ
+24,"SN 88/35, Ñaøo Duy Anh",lỗi font
+24,"SN 893, Đão Duy Anh",lỗi sai chính tả
+24,"SN 971/20, Không xác định Đạo Duy Anh",lỗi sai chính tả + thêm từ gây nhiễu
+25,"SN 123/75, Ấp Lỷ Chĩnh Thắng",lỗi sai chính tả + thêm từ gây nhiễu
+25,"SN 194B, Lỳ Chình Thắng",lỗi sai chính tả
+25,"SN 200/42C, Nhà 2 tầng Lý Chính Thắng",lỗi thêm từ gây nhiễu
+25,"SN 254B, Lý Chính Thắng",không lỗi
+25,"SN 364/42B, Chình Thắng",lỗi sai chính tả + thiếu từ
+25,"SN 568/76A, Lý hCính Thắng",lỗi sai chính tả + đổi thứ tự các từ
+25,"SN 67/56B, Lý Chính Thắng",không lỗi
+25,"SN 701/50A, ýL Chính Thắng",lỗi đổi thứ tự các từ
+25,"SN 819/61, Lý Thắng",lỗi thiếu từ
+25,"SN 844, Lý Chính Thắng",lỗi thiếu từ + đổi thứ tự các từ
+25,"SN 963/67A, Lyù Chính Thaéng",lỗi font
+26,"SN 122, Trần Quang Khải",lỗi thiếu từ + đổi thứ tự các từ
+26,"SN 295/72C, Quang Khái",lỗi sai chính tả + thiếu từ
+26,"SN 381/45A, Trần Quang Khải",không lỗi
+26,"SN 395/54B, Không biết Trần Quang Khải",lỗi thêm từ gây nhiễu
+26,"SN 414/15, Tầrn Quang Khải",lỗi sai chính tả + đổi thứ tự các từ
+26,"SN 441/15B, Trần Khải",lỗi thiếu từ
+26,"SN 500A, Trần Quang Khải",không lỗi
+26,"SN 519A, Traàn Quang Khaûi",lỗi font
+26,"SN 532/29C, Trần Qunag Khải",lỗi đổi thứ tự các từ
+26,"SN 94/8C, Trẩn Quang Khãi",lỗi sai chính tả
+26,"SN 979A, Nhà 2 tầng Trấn Quang Khái",lỗi sai chính tả + thêm từ gây nhiễu
+27,"SN 141, Hai Bà Trưng",lỗi thiếu từ + đổi thứ tự các từ
+27,"SN 151/85, Hai Trừng",lỗi sai chính tả + thiếu từ
+27,"SN 206/54C, Hai Bà Trưng",không lỗi
+27,"SN 364B, Hai àB Trưng",lỗi sai chính tả + đổi thứ tự các từ
+27,"SN 395C, Bà Trưng",lỗi thiếu từ
+27,"SN 411/54, Hai Bà Trưng",không lỗi
+27,"SN 475/29, Không xác định Hai Bã Trựng",lỗi sai chính tả + thêm từ gây nhiễu
+27,"SN 641/61B, Ấp Hai Bà Trưng",lỗi thêm từ gây nhiễu
+27,"SN 665/41, Hai àB Trưng",lỗi đổi thứ tự các từ
+27,"SN 895/98A, Hai Bả Trửng",lỗi sai chính tả
+27,"SN 946/2, Hai Baø Tröng",lỗi font
+28,"SN 135A, Đặng Táhi Thân",lỗi sai chính tả + đổi thứ tự các từ
+28,"SN 40, Đặng Thại Thẩn",lỗi sai chính tả
+28,"SN 435B, Đặng Thân",lỗi thiếu từ
+28,"SN 643B, CSH Đặng Thái Thân",lỗi thêm từ gây nhiễu
+28,"SN 71/21B, Đặng Thái Thân",không lỗi
+28,"SN 71/2A, CSH Đặng Thài Thần",lỗi sai chính tả + thêm từ gây nhiễu
+28,"SN 714, Đặng Thái Tâhn",lỗi đổi thứ tự các từ
+28,"SN 817, Đặng Thái Thân",lỗi thiếu từ + đổi thứ tự các từ
+28,"SN 901/45, Đặng Thái Thân",không lỗi
+28,"SN 950, Đặng Thại",lỗi sai chính tả + thiếu từ
+28,"SN 955/29A, Ñaëng Thaùi Thaân",lỗi font
+29,"SN 10C, Nugyễn Văn Quá",lỗi đổi thứ tự các từ
+29,"SN 204/3A, Nguyễn Văn Quá",không lỗi
+29,"SN 416C, Ngõ Nguyến Văn Quạ",lỗi sai chính tả + thêm từ gây nhiễu
+29,"SN 471A, Nguyeãn Vaên Quaù",lỗi font
+29,"SN 512/83A, Nguyễn Văn Quá",không lỗi
+29,"SN 568/49B, gNuyễn Văn Quá",lỗi sai chính tả + đổi thứ tự các từ
+29,"SN 568/83A, Văn Quả",lỗi sai chính tả + thiếu từ
+29,"SN 66/32C, Nguyễn Văn Quá",lỗi thiếu từ + đổi thứ tự các từ
+29,"SN 785/28, Không xác định Nguyễn Văn Quá",lỗi thêm từ gây nhiễu
+29,"SN 83/69, Văn Quá",lỗi thiếu từ
+29,"SN 997/99, Nguyên Văn Quả",lỗi sai chính tả
+30,"SN 160/14, Nguyện Chì Thanh",lỗi sai chính tả
+30,"SN 201/62A, Nguyễn Chí Thnah",lỗi sai chính tả + đổi thứ tự các từ
+30,"SN 307/69A, CSH Nguyển Chĩ Thanh",lỗi sai chính tả + thêm từ gây nhiễu
+30,"SN 513, Nguyeãn Chí Thanh",lỗi font
+30,"SN 601A, Nguyến Thanh",lỗi sai chính tả + thiếu từ
+30,"SN 636/28, Nguyễn Chí Thanh",không lỗi
+30,"SN 772/61, Nguyễn Chí Thanh",lỗi thiếu từ + đổi thứ tự các từ
+30,"SN 785, gNuyễn Chí Thanh",lỗi đổi thứ tự các từ
+30,"SN 857/38, Nhà 2 tầng Nguyễn Chí Thanh",lỗi thêm từ gây nhiễu
+30,"SN 879C, Chí Thanh",lỗi thiếu từ
+30,"SN 983, Nguyễn Chí Thanh",không lỗi
+31,"SN 115/25A, rTần Khánh Dư",lỗi sai chính tả + đổi thứ tự các từ
+31,"SN 136, Trnầ Khánh Dư",lỗi đổi thứ tự các từ
+31,"SN 14B, Trần Khánh Dư",không lỗi
+31,"SN 215, Trần Khánh Dư",lỗi thiếu từ + đổi thứ tự các từ
+31,"SN 372, Trẩn Khãnh Dừ",lỗi sai chính tả
+31,"SN 468C, Không biết Trần Khánh Dư",lỗi thêm từ gây nhiễu
+31,"SN 56/27A, Traàn Khaùnh Dö",lỗi font
+31,"SN 656B, Không biết Trẫn Khảnh Dừ",lỗi sai chính tả + thêm từ gây nhiễu
+31,"SN 834C, Trẫn Dự",lỗi sai chính tả + thiếu từ
+31,"SN 846, Trần Khánh Dư",không lỗi
+31,"SN 977/84C, Trần Khánh",lỗi thiếu từ
+32,"SN 141A, Hồ Tùng Muậ",lỗi đổi thứ tự các từ
+32,"SN 395/37, Tùng Mậu",lỗi thiếu từ
+32,"SN 43/46B, Không biết Hồ Tùng Mậu",lỗi thêm từ gây nhiễu
+32,"SN 451/58, Hồ Tùng Mậu",lỗi thiếu từ + đổi thứ tự các từ
+32,"SN 594/24, Hồ Tùng Mậu",không lỗi
+32,"SN 726, Hoà Tuøng Maäu",lỗi font
+32,"SN 783C, ồH Tùng Mậu",lỗi sai chính tả + đổi thứ tự các từ
+32,"SN 79/40A, Hỗ Tũng Mấu",lỗi sai chính tả
+32,"SN 840A, Hồ Tùng Mậu",không lỗi
+32,"SN 859/22, Hố Tũng",lỗi sai chính tả + thiếu từ
+32,"SN 959C, Nhà 2 tầng Hỗ Tụng Mấu",lỗi sai chính tả + thêm từ gây nhiễu
+33,"SN 272, Nguyên Cứ Trinh",lỗi sai chính tả
+33,"SN 321/82C, Cự Trinh",lỗi sai chính tả + thiếu từ
+33,"SN 36/12, Nguyễn Cư Trinh",không lỗi
+33,"SN 386, Nguyeãn Cö Trinh",lỗi font
+33,"SN 731C, Nguyễn Cư Trinh",không lỗi
+33,"SN 765/11A, Nguyễn Cư Trinh",lỗi thiếu từ + đổi thứ tự các từ
+33,"SN 817/99C, Nhà trống Nguyện Cứ Trinh",lỗi sai chính tả + thêm từ gây nhiễu
+33,"SN 885C, Nhà trống Nguyễn Cư Trinh",lỗi thêm từ gây nhiễu
+33,"SN 897, Cư Trinh",lỗi thiếu từ
+33,"SN 949, Nguyễn ưC Trinh",lỗi sai chính tả + đổi thứ tự các từ
+33,"SN 96, Nguyễn ưC Trinh",lỗi đổi thứ tự các từ
+34,"SN 119B, Phan Kế Bính",không lỗi
+34,"SN 302C, Phan Kế Bính",lỗi thiếu từ + đổi thứ tự các từ
+34,"SN 449B, Hẻm Phan Kế Bính",lỗi thêm từ gây nhiễu
+34,"SN 679/40, Phan Kể Bĩnh",lỗi sai chính tả
+34,"SN 708C, Phan Bính",lỗi thiếu từ
+34,"SN 756C, Phường Phan Kể Bịnh",lỗi sai chính tả + thêm từ gây nhiễu
+34,"SN 831/92A, Phna Kế Bính",lỗi sai chính tả + đổi thứ tự các từ
+34,"SN 835, Phan Kế íBnh",lỗi đổi thứ tự các từ
+34,"SN 84, Phan Kể",lỗi sai chính tả + thiếu từ
+34,"SN 955, Phan Kế Bính",không lỗi
+34,"SN 962A, Phan Keá Bính",lỗi font
+35,"SN 100/69, Ngỗ Gia Tứ",lỗi sai chính tả
+35,"SN 194/61C, Ngô Gia Tự",lỗi thiếu từ + đổi thứ tự các từ
+35,"SN 201/64B, Không xác định Ngô Gia Tự",lỗi thêm từ gây nhiễu
+35,"SN 256, Phường Ngồ Gia Tứ",lỗi sai chính tả + thêm từ gây nhiễu
+35,"SN 271A, Ngô Gia Tự",không lỗi
+35,"SN 372B, Gia Tứ",lỗi sai chính tả + thiếu từ
+35,"SN 502/95, Ngô Gia Tự",không lỗi
+35,"SN 632B, Ngoâ Gia Töï",lỗi font
+35,"SN 651B, Ngô Gia ựT",lỗi đổi thứ tự các từ
+35,"SN 865/11A, Ngô Gia",lỗi thiếu từ
+35,"SN 892B, Ngô Gia ựT",lỗi sai chính tả + đổi thứ tự các từ
+36,"SN 141, Phan Xích Long",không lỗi
+36,"SN 186/23A, Phan Xích Logn",lỗi sai chính tả + đổi thứ tự các từ
+36,"SN 231B, Phan Xích Long",lỗi font
+36,"SN 236/44A, Phan Xích Long",không lỗi
+36,"SN 252B, Phan Xích oLng",lỗi đổi thứ tự các từ
+36,"SN 429/39B, Phan Xích Long",lỗi thiếu từ + đổi thứ tự các từ
+36,"SN 437/32, Xích Long",lỗi thiếu từ
+36,"SN 499/66C, Phan Xịch Long",lỗi sai chính tả
+36,"SN 553/25, Xỉch Long",lỗi sai chính tả + thiếu từ
+36,"SN 814/39C, Không xác định Phan Xích Long",lỗi thêm từ gây nhiễu
+36,"SN 831/15A, CSH Phan Xìch Long",lỗi sai chính tả + thêm từ gây nhiễu
+37,"SN 124, Mai hTị Lựu",lỗi sai chính tả + đổi thứ tự các từ
+37,"SN 129, Mai Thị Lựu",lỗi thiếu từ + đổi thứ tự các từ
+37,"SN 12A, Hẻm Mai Thị Lựu",lỗi thêm từ gây nhiễu
+37,"SN 217, Mai Thỉ Lưu",lỗi sai chính tả
+37,"SN 230/57, Mai Lừu",lỗi sai chính tả + thiếu từ
+37,"SN 267/56C, Mai Thò Löïu",lỗi font
+37,"SN 279/37, Mai Thị",lỗi thiếu từ
+37,"SN 337, Mai Thị Lựu",không lỗi
+37,"SN 353, Mai Tịh Lựu",lỗi đổi thứ tự các từ
+37,"SN 567C, Mai Thị Lựu",không lỗi
+37,"SN 800A, Nhà 2 tầng Mai Thĩ Lừu",lỗi sai chính tả + thêm từ gây nhiễu
+38,"SN 12, Không biết Phan Huy Ích",lỗi thêm từ gây nhiễu
+38,"SN 185, Phan Huy cÍh",lỗi đổi thứ tự các từ
+38,"SN 206/57C, Phan Huy Ích",không lỗi
+38,"SN 432/41C, Phan Huy",lỗi sai chính tả + thiếu từ
+38,"SN 594/18, Không xác định Phan Huy Ích",lỗi sai chính tả + thêm từ gây nhiễu
+38,"SN 697/75C, Phan Huy Ích",lỗi font
+38,"SN 728/41, Phan Huy Ích",không lỗi
+38,"SN 763/71, Phan Huy",lỗi thiếu từ
+38,"SN 769/30, Phan uHy Ích",lỗi sai chính tả + đổi thứ tự các từ
+38,"SN 78/1C, Phan Huy Ích",lỗi sai chính tả
+38,"SN 994/39C, Phan Huy Ích",lỗi thiếu từ + đổi thứ tự các từ
+39,"SN 131, Hẻm Vù Tộng Phan",lỗi sai chính tả + thêm từ gây nhiễu
+39,"SN 283/75B, Nhà trống Vũ Tông Phan",lỗi thêm từ gây nhiễu
+39,"SN 419/18A, Vũ Tông hPan",lỗi sai chính tả + đổi thứ tự các từ
+39,"SN 447, Vù Tổng Phan",lỗi sai chính tả
+39,"SN 470, Vũ Tông Phan",không lỗi
+39,"SN 747/6A, Vũ Tnôg Phan",lỗi đổi thứ tự các từ
+39,"SN 811/33, Vũ Tông",lỗi thiếu từ
+39,"SN 882/56, Vũ Tông Phan",lỗi thiếu từ + đổi thứ tự các từ
+39,"SN 972/99C, Vuõ Toâng Phan",lỗi font
+39,"SN 980/64A, Vù Tộng",lỗi sai chính tả + thiếu từ
+39,"SN 981/93, Vũ Tông Phan",không lỗi
+40,"SN 20/7B, Không biết Nguyễn Đình Chiểu",lỗi thêm từ gây nhiễu
+40,"SN 244/43, Nguyển Chiều",lỗi sai chính tả + thiếu từ
+40,"SN 29, Nguyễn Đìhn Chiểu",lỗi đổi thứ tự các từ
+40,"SN 402, Nguyện Đính Chiều",lỗi sai chính tả
+40,"SN 57/70B, Nguyễn Đình Chiểu",không lỗi
+40,"SN 602/5C, Nguyeãn Ñình Chieåu",lỗi font
+40,"SN 635, Nguyễn Đình Chiểu",không lỗi
+40,"SN 842/82C, Ngyuễn Đình Chiểu",lỗi sai chính tả + đổi thứ tự các từ
+40,"SN 871/95, Nguyễn Đình Chiểu",lỗi thiếu từ + đổi thứ tự các từ
+40,"SN 891B, Đình Chiểu",lỗi thiếu từ
+40,"SN 921/43, Không biết Nguyện Định Chiếu",lỗi sai chính tả + thêm từ gây nhiễu
+41,"SN 124/51C, Nguyễn An Ninh",không lỗi
+41,"SN 141B, Nguyễn Ninh",lỗi thiếu từ
+41,"SN 456, Nguyến An",lỗi sai chính tả + thiếu từ
+41,"SN 483/83, Hẻm Nguyễn An Ninh",lỗi thêm từ gây nhiễu
+41,"SN 549/10A, Nguyễn An Ninh",lỗi thiếu từ + đổi thứ tự các từ
+41,"SN 591/97, Nguyễn An Nnih",lỗi sai chính tả + đổi thứ tự các từ
+41,"SN 629/33B, Nguynễ An Ninh",lỗi đổi thứ tự các từ
+41,"SN 88, Nguyền An Ninh",lỗi sai chính tả
+41,"SN 885/64, Nguyễn An Ninh",không lỗi
+41,"SN 907B, Nguyeãn An Ninh",lỗi font
+41,"SN 920/68B, Hẻm Nguyện An Ninh",lỗi sai chính tả + thêm từ gây nhiễu
+42,"SN 131/93C, Nguyễn Hữu Tọh",lỗi đổi thứ tự các từ
+42,"SN 15/74B, gNuyễn Hữu Thọ",lỗi sai chính tả + đổi thứ tự các từ
+42,"SN 304/13, Nguyễn Hữu Thọ",không lỗi
+42,"SN 413C, Nguyễn Hữu",lỗi thiếu từ
+42,"SN 459, Nguyễn Hữu Thọ",không lỗi
+42,"SN 547/32, Nguyến Hừu Thõ",lỗi sai chính tả
+42,"SN 551/65, Nguyeãn Höõu Thoï",lỗi font
+42,"SN 698/21A, Nguyễn Hữu Thọ",lỗi thiếu từ + đổi thứ tự các từ
+42,"SN 71/54, Không xác định Nguyễn Hữu Thọ",lỗi thêm từ gây nhiễu
+42,"SN 759, Hửu Thó",lỗi sai chính tả + thiếu từ
+42,"SN 870/58C, CSH Nguyện Hửu Thỏ",lỗi sai chính tả + thêm từ gây nhiễu
+43,"SN 104/15, Nguyễn Văn Linh",lỗi thiếu từ + đổi thứ tự các từ
+43,"SN 264/65, Nguyễn Linh",lỗi thiếu từ
+43,"SN 282C, Nguyễn Văn Linh",không lỗi
+43,"SN 407, CSH Nguyễn Văn Linh",lỗi thêm từ gây nhiễu
+43,"SN 409A, Không xác định Nguyến Văn Linh",lỗi sai chính tả + thêm từ gây nhiễu
+43,"SN 425, Nguynễ Văn Linh",lỗi sai chính tả + đổi thứ tự các từ
+43,"SN 501/87, Nguyeãn Vaên Linh",lỗi font
+43,"SN 526/52, gNuyễn Văn Linh",lỗi đổi thứ tự các từ
+43,"SN 664/19C, Nguyễn Văn Linh",không lỗi
+43,"SN 881/95, Nguyên Văn Linh",lỗi sai chính tả
+43,"SN 969/86C, Nguyến Linh",lỗi sai chính tả + thiếu từ
+44,"SN 16/12, Đại Hành",lỗi thiếu từ
+44,"SN 400/51, Lê Đại Hành",không lỗi
+44,"SN 434/85B, Lề Đải Hạnh",lỗi sai chính tả
+44,"SN 485, Ngõ Lê Đại Hành",lỗi thêm từ gây nhiễu
+44,"SN 515, Lê Đại àHnh",lỗi sai chính tả + đổi thứ tự các từ
+44,"SN 601C, Đài Hảnh",lỗi sai chính tả + thiếu từ
+44,"SN 613A, Lê Đại Hành",không lỗi
+44,"SN 652, Ấp Lệ Đái Hánh",lỗi sai chính tả + thêm từ gây nhiễu
+44,"SN 798A, Lê Đại Hnàh",lỗi đổi thứ tự các từ
+44,"SN 898/84, Lê Đại Hành",lỗi thiếu từ + đổi thứ tự các từ
+44,"SN 997, Leâ Ñaïi Haønh",lỗi font
+45,"SN 124/20, Lê Văn",lỗi thiếu từ
+45,"SN 221, Leâ Vaên Löông",lỗi font
+45,"SN 266/11, Lê Văn Lương",không lỗi
+45,"SN 288/97A, Lê Văn Lương",lỗi thiếu từ + đổi thứ tự các từ
+45,"SN 355, Lê Văn Lương",không lỗi
+45,"SN 393/71B, Lê Văn ưLơng",lỗi sai chính tả + đổi thứ tự các từ
+45,"SN 453, Nhà 2 tầng Lê Văn Lương",lỗi thêm từ gây nhiễu
+45,"SN 502/13B, Lể Văn",lỗi sai chính tả + thiếu từ
+45,"SN 621, Lệ Văn Lừỡng",lỗi sai chính tả
+45,"SN 658/49, Không xác định Lề Văn Lửờng",lỗi sai chính tả + thêm từ gây nhiễu
+45,"SN 934, Lê ăVn Lương",lỗi đổi thứ tự các từ
+46,"SN 164A, Quang Bĩch",lỗi sai chính tả + thiếu từ
+46,"SN 263/20, Nguyễn Quang Bích",không lỗi
+46,"SN 436, Nguyễn Quang Bích",không lỗi
+46,"SN 49, Nhà 2 tầng Nguyển Quang Bịch",lỗi sai chính tả + thêm từ gây nhiễu
+46,"SN 490A, Nguyễn Quang Bích",lỗi thiếu từ + đổi thứ tự các từ
+46,"SN 675/98, Nguyễn Quang íBch",lỗi sai chính tả + đổi thứ tự các từ
+46,"SN 719/59, Quang Bích",lỗi thiếu từ
+46,"SN 796/63C, Nguyên Quang Bìch",lỗi sai chính tả
+46,"SN 811/21B, Nugyễn Quang Bích",lỗi đổi thứ tự các từ
+46,"SN 895/66, Ấp Nguyễn Quang Bích",lỗi thêm từ gây nhiễu
+46,"SN 945/63, Nguyeãn Quang Bích",lỗi font
+47,"SN 183/40, Hoaøng Quoác Vieät",lỗi font
+47,"SN 219, Hoảng Viểt",lỗi sai chính tả + thiếu từ
+47,"SN 227, Hoàng Quốc Việt",không lỗi
+47,"SN 419, Honàg Quốc Việt",lỗi sai chính tả + đổi thứ tự các từ
+47,"SN 41C, Hoàng Quốc",lỗi thiếu từ
+47,"SN 606A, Hoạng Quồc Viết",lỗi sai chính tả
+47,"SN 610/95, Hoàng Quốc Việt",lỗi thiếu từ + đổi thứ tự các từ
+47,"SN 620B, Nhà trống Hoàng Quốc Việt",lỗi thêm từ gây nhiễu
+47,"SN 817/49, Hoàng Quốc Vitệ",lỗi đổi thứ tự các từ
+47,"SN 849/40A, Nhà 2 tầng Hoãng Quồc Viễt",lỗi sai chính tả + thêm từ gây nhiễu
+47,"SN 938/26C, Hoàng Quốc Việt",không lỗi
+48,"SN 205/93A, Trân Cao Vần",lỗi sai chính tả
+48,"SN 271/53C, Ấp Trân Cao Vận",lỗi sai chính tả + thêm từ gây nhiễu
+48,"SN 286B, Trnầ Cao Vân",lỗi sai chính tả + đổi thứ tự các từ
+48,"SN 337/55C, Trần Cao Vân",lỗi thiếu từ + đổi thứ tự các từ
+48,"SN 443, Trần Cao Vân",không lỗi
+48,"SN 452/27C, rTần Cao Vân",lỗi đổi thứ tự các từ
+48,"SN 584, Trẫn Cao",lỗi sai chính tả + thiếu từ
+48,"SN 673/69B, Cao Vân",lỗi thiếu từ
+48,"SN 783/70A, Ngõ Trần Cao Vân",lỗi thêm từ gây nhiễu
+48,"SN 896, Traàn Cao Vaân",lỗi font
+48,"SN 976B, Trần Cao Vân",không lỗi
+49,"SN 16/33B, Trần Qốuc Toản",lỗi đổi thứ tự các từ
+49,"SN 20/80, Trần Quốc Toản",không lỗi
+49,"SN 446/99, Trần Quốc Tảon",lỗi sai chính tả + đổi thứ tự các từ
+49,"SN 488, Phường Trận Quộc Toạn",lỗi sai chính tả + thêm từ gây nhiễu
+49,"SN 557, Trận Quỗc",lỗi sai chính tả + thiếu từ
+49,"SN 641/86A, CSH Trần Quốc Toản",lỗi thêm từ gây nhiễu
+49,"SN 681C, Trẫn Quộc Toàn",lỗi sai chính tả
+49,"SN 70/73B, Quốc Toản",lỗi thiếu từ
+49,"SN 778, Trần Quốc Toản",không lỗi
+49,"SN 797A, Traàn Quoác Toaûn",lỗi font
+49,"SN 99A, Trần Quốc Toản",lỗi thiếu từ + đổi thứ tự các từ
+50,"SN 151, Phám Thàch",lỗi sai chính tả + thiếu từ
+50,"SN 161B, Phaïm Ngoïc Thaïch",lỗi font
+50,"SN 241/41, Hẻm Phảm Ngòc Thảch",lỗi sai chính tả + thêm từ gây nhiễu
+50,"SN 353, Phạm Nọgc Thạch",lỗi sai chính tả + đổi thứ tự các từ
+50,"SN 431B, Phạm Ngọc Thạch",không lỗi
+50,"SN 451/21B, Phạm Ngọc Thạch",lỗi thiếu từ + đổi thứ tự các từ
+50,"SN 566/29, Phàm Ngóc Thách",lỗi sai chính tả
+50,"SN 594C, Phạm Ngọc",lỗi thiếu từ
+50,"SN 755, Phạm Ngọc Thạch",không lỗi
+50,"SN 883, Hẻm Phạm Ngọc Thạch",lỗi thêm từ gây nhiễu
+50,"SN 898A, Phạm Ngọc hTạch",lỗi đổi thứ tự các từ
+51,"SN 132, Trương Công ịĐnh",lỗi sai chính tả + đổi thứ tự các từ
+51,"SN 17746, Tröông Coâng Ñònh",lỗi font
+51,"SN 211/79, Nhà trống Trửớng Cỗng Đình",lỗi sai chính tả + thêm từ gây nhiễu
+51,"SN 214/76A, Trương Công Định",lỗi thiếu từ + đổi thứ tự các từ
+51,"SN 224B, Trửỡng Cộng Đỉnh",lỗi sai chính tả
+51,"SN 29/40, Hẻm Trương Công Định",lỗi thêm từ gây nhiễu
+51,"SN 334B, Trữớng Đĩnh",lỗi sai chính tả + thiếu từ
+51,"SN 509/14A, Trương Công Định",không lỗi
+51,"SN 846/7, Trơưng Công Định",lỗi đổi thứ tự các từ
+51,"SN 959/37, Trương Công Định",không lỗi
+51,"SN 99/9, Trương Định",lỗi thiếu từ
+52,"SN 223B, Nguyển Thõ",lỗi sai chính tả + thiếu từ
+52,"SN 256/16, Nguyễn Thọ",lỗi thiếu từ
+52,"SN 299/36A, Nguyễn Hữu Thọ",lỗi thiếu từ + đổi thứ tự các từ
+52,"SN 308, Không xác định Nguyễn Hữu Thọ",lỗi thêm từ gây nhiễu
+52,"SN 400/15C, Nguyện Hứu Thò",lỗi sai chính tả
+52,"SN 482B, Nguyeãn Höõu Thoï",lỗi font
+52,"SN 548/59B, Nguyễn Huữ Thọ",lỗi đổi thứ tự các từ
+52,"SN 745, Nguyễn Hữu Thọ",không lỗi
+52,"SN 785/84C, CSH Nguyển Hưu Thõ",lỗi sai chính tả + thêm từ gây nhiễu
+52,"SN 806, Nguyễn Hữu Thọ",không lỗi
+52,"SN 903/95B, Nguyễn ữHu Thọ",lỗi sai chính tả + đổi thứ tự các từ
+53,"SN 12/68C, Ngõ Trẫn Xuẩn Soàn",lỗi sai chính tả + thêm từ gây nhiễu
+53,"SN 140/80A, Ngõ Trần Xuân Soạn",lỗi thêm từ gây nhiễu
+53,"SN 156, rTần Xuân Soạn",lỗi đổi thứ tự các từ
+53,"SN 178/74, Trần Xuân Soạn",không lỗi
+53,"SN 413/39, Trân Xuẫn Soãn",lỗi sai chính tả
+53,"SN 455, Trần Xuân Soạn",lỗi thiếu từ + đổi thứ tự các từ
+53,"SN 71B, Traàn Xuaân Soaïn",lỗi font
+53,"SN 746/88A, Trần Xuân Sạon",lỗi sai chính tả + đổi thứ tự các từ
+53,"SN 754/5C, Trần Xuân",lỗi thiếu từ
+53,"SN 807B, Trần Xuân Soạn",không lỗi
+53,"SN 945B, Trân Xuấn",lỗi sai chính tả + thiếu từ
+54,"SN 166C, Nguyễn Hiền",lỗi thiếu từ
+54,"SN 206/9, Nguyễn Thượng Hiền",không lỗi
+54,"SN 248A, Nguyeãn Thöôïng Hieàn",lỗi font
+54,"SN 261C, Nguyễn Thượng Hiền",lỗi thiếu từ + đổi thứ tự các từ
+54,"SN 356/91C, Nguynễ Thượng Hiền",lỗi đổi thứ tự các từ
+54,"SN 38, Không biết Nguyễn Thượng Hiền",lỗi thêm từ gây nhiễu
+54,"SN 428C, Nguyên Thừỡng Hiên",lỗi sai chính tả
+54,"SN 525, Ngyuễn Thượng Hiền",lỗi sai chính tả + đổi thứ tự các từ
+54,"SN 587, Nguyện Thửơng",lỗi sai chính tả + thiếu từ
+54,"SN 674/84C, Nguyễn Thượng Hiền",không lỗi
+54,"SN 756, CSH Nguyển Thựởng Hiển",lỗi sai chính tả + thêm từ gây nhiễu
+55,"SN 120, Phan Trì",lỗi sai chính tả + thiếu từ
+55,"SN 221/92C, Phna Văn Trị",lỗi đổi thứ tự các từ
+55,"SN 240/33C, Phan Trị",lỗi thiếu từ
+55,"SN 34, Phan Văn Trị",lỗi thiếu từ + đổi thứ tự các từ
+55,"SN 426/56A, Phường Phan Văn Trị",lỗi thêm từ gây nhiễu
+55,"SN 429/4, Phan Vaên Trò",lỗi font
+55,"SN 460/49, Hẻm Phan Văn Trỉ",lỗi sai chính tả + thêm từ gây nhiễu
+55,"SN 57/24B, Phan Văn Trị",không lỗi
+55,"SN 668, Phan Văn rTị",lỗi sai chính tả + đổi thứ tự các từ
+55,"SN 893/75, Phan Văn Trí",lỗi sai chính tả
+55,"SN 921A, Phan Văn Trị",không lỗi
+56,"SN 176B, Nguyện Văn Thoãi",lỗi sai chính tả
+56,"SN 204/55B, Nguyễn ăVn Thoại",lỗi đổi thứ tự các từ
+56,"SN 265/9, Nguyễn Văn Thoại",không lỗi
+56,"SN 331/52C, Phố Nguyện Văn Thoài",lỗi sai chính tả + thêm từ gây nhiễu
+56,"SN 356, Nguyễn Văn Thoại",lỗi thiếu từ + đổi thứ tự các từ
+56,"SN 377/34, Nguyeãn Vaên Thoaïi",lỗi font
+56,"SN 393, Phố Nguyễn Văn Thoại",lỗi thêm từ gây nhiễu
+56,"SN 563, Nguyễn Văn Thoại",không lỗi
+56,"SN 609/65A, Nguyễn Thoại",lỗi thiếu từ
+56,"SN 737, Nguyến Văn",lỗi sai chính tả + thiếu từ
+56,"SN 972/83, Nguyễn Vnă Thoại",lỗi sai chính tả + đổi thứ tự các từ
+57,"SN 186B, Nguyễn Kmi Hồng",lỗi sai chính tả + đổi thứ tự các từ
+57,"SN 304C, Nguyễn iKm Hồng",lỗi đổi thứ tự các từ
+57,"SN 45469, Nguyển Kim",lỗi sai chính tả + thiếu từ
+57,"SN 490, Nguyeãn Kim Hoàng",lỗi font
+57,"SN 516, Hẻm Nguyện Kim Hống",lỗi sai chính tả + thêm từ gây nhiễu
+57,"SN 541B, Nguyền Kim Hổng",lỗi sai chính tả
+57,"SN 615, Nguyễn Kim Hồng",lỗi thiếu từ + đổi thứ tự các từ
+57,"SN 680/70B, Kim Hồng",lỗi thiếu từ
+57,"SN 822/73A, Nguyễn Kim Hồng",không lỗi
+57,"SN 976/76A, Nguyễn Kim Hồng",không lỗi
+57,"SN 993/70C, CSH Nguyễn Kim Hồng",lỗi thêm từ gây nhiễu
+58,"SN 150/22, Ngõ Lê Trọng Tấn",lỗi thêm từ gây nhiễu
+58,"SN 224/67A, Lề Trõng Tần",lỗi sai chính tả
+58,"SN 251, Leâ Troïng Taán",lỗi font
+58,"SN 316/51, Lê Trọng Tấn",lỗi thiếu từ + đổi thứ tự các từ
+58,"SN 462B, Lê Trọng Tnấ",lỗi đổi thứ tự các từ
+58,"SN 591B, CSH Lệ Tróng Tẫn",lỗi sai chính tả + thêm từ gây nhiễu
+58,"SN 633/38, êL Trọng Tấn",lỗi sai chính tả + đổi thứ tự các từ
+58,"SN 902, Lê Tấn",lỗi thiếu từ
+58,"SN 951, Lê Trọng Tấn",không lỗi
+58,"SN 981/6, Lê Trọng Tấn",không lỗi
+58,"SN 997, Trõng Tân",lỗi sai chính tả + thiếu từ
+59,"SN 160C, Huỳnh Tnấ Phát",lỗi đổi thứ tự các từ
+59,"SN 177A, Hỳunh Tấn Phát",lỗi sai chính tả + đổi thứ tự các từ
+59,"SN 194B, Huỳnh Tấn Phát",không lỗi
+59,"SN 286, Tấn Phát",lỗi thiếu từ
+59,"SN 439/86, Huỹnh Tần Phảt",lỗi sai chính tả
+59,"SN 489, Hẻm Huỹnh Tân Phạt",lỗi sai chính tả + thêm từ gây nhiễu
+59,"SN 50/68B, Huỳnh Tấn Phát",lỗi thiếu từ + đổi thứ tự các từ
+59,"SN 739B, Phường Huỳnh Tấn Phát",lỗi thêm từ gây nhiễu
+59,"SN 781/1C, Tân Phãt",lỗi sai chính tả + thiếu từ
+59,"SN 901C, Huỳnh Tấn Phát",không lỗi
+59,"SN 961, Huyønh Taán Phaùt",lỗi font
+60,"SN 161B, Ngô Tất Tố",lỗi thiếu từ + đổi thứ tự các từ
+60,"SN 194C, Không xác định Ngồ Tẫt Tổ",lỗi sai chính tả + thêm từ gây nhiễu
+60,"SN 267B, Ngỗ Tât Tộ",lỗi sai chính tả
+60,"SN 341/80B, Không xác định Ngô Tất Tố",lỗi thêm từ gây nhiễu
+60,"SN 474C, Ngô Tố",lỗi thiếu từ
+60,"SN 554/90C, Tẩt Tô",lỗi sai chính tả + thiếu từ
+60,"SN 7/52A, Ngô Tất Tố",không lỗi
+60,"SN 734A, Ngô Tất ốT",lỗi sai chính tả + đổi thứ tự các từ
+60,"SN 736B, Ngoâ Taát Toá",lỗi font
+60,"SN 896/98, Ngô Tất ốT",lỗi đổi thứ tự các từ
+60,"SN 927B, Ngô Tất Tố",không lỗi
+61,"SN 225, Không xác định Nguyển Văn Cồng",lỗi sai chính tả + thêm từ gây nhiễu
+61,"SN 362C, Nguễyn Văn Công",lỗi sai chính tả + đổi thứ tự các từ
+61,"SN 399B, Nguyễn Văn",lỗi thiếu từ
+61,"SN 436/85, Nguyễn Văn Công",không lỗi
+61,"SN 463, Ngõ Nguyễn Văn Công",lỗi thêm từ gây nhiễu
+61,"SN 493/85B, Nguyện Văn Cộng",lỗi sai chính tả
+61,"SN 60A, Nguyễn Văn Công",không lỗi
+61,"SN 615/83, Văn Cồng",lỗi sai chính tả + thiếu từ
+61,"SN 765A, Nguyeãn Vaên Coâng",lỗi font
+61,"SN 942/90, Nguyễn Văn Công",lỗi thiếu từ + đổi thứ tự các từ
+61,"SN 999/32B, Nguyễn Văn ôCng",lỗi đổi thứ tự các từ
+62,"SN 140/50A, Đinh Bộ Lĩnh",lỗi thiếu từ + đổi thứ tự các từ
+62,"SN 253, Ngõ Đinh Bộ Lĩnh",lỗi thêm từ gây nhiễu
+62,"SN 39, Bô Lỉnh",lỗi sai chính tả + thiếu từ
+62,"SN 515A, iĐnh Bộ Lĩnh",lỗi đổi thứ tự các từ
+62,"SN 518C, Đinh Bỗ Lỉnh",lỗi sai chính tả
+62,"SN 593/97C, Đinh Lĩnh",lỗi thiếu từ
+62,"SN 621/23C, Đinh Bộ Lĩnh",không lỗi
+62,"SN 649B, Ngõ Đinh Bồ Lính",lỗi sai chính tả + thêm từ gây nhiễu
+62,"SN 703, Ñinh Boä Lónh",lỗi font
+62,"SN 890A, Đinh Bộ Lĩnh",không lỗi
+62,"SN 970/9C, Đinh ộB Lĩnh",lỗi sai chính tả + đổi thứ tự các từ
+63,"SN 198C, Phan Thanh Giản",không lỗi
+63,"SN 226, Pahn Thanh Giản",lỗi sai chính tả + đổi thứ tự các từ
+63,"SN 262A, Nhà 2 tầng Phan Thanh Giản",lỗi thêm từ gây nhiễu
+63,"SN 369, Phan Thanh Giản",không lỗi
+63,"SN 405/2A, Phan Gián",lỗi sai chính tả + thiếu từ
+63,"SN 505, Phan Thanh",lỗi thiếu từ
+63,"SN 52/27A, Phan Thanh Giản",lỗi thiếu từ + đổi thứ tự các từ
+63,"SN 57/61A, Phan Thanh Giạn",lỗi sai chính tả
+63,"SN 597/82, Nhà 2 tầng Phan Thanh Giãn",lỗi sai chính tả + thêm từ gây nhiễu
+63,"SN 753, Phan Thanh Giaûn",lỗi font
+63,"SN 77/52B, hPan Thanh Giản",lỗi đổi thứ tự các từ
+64,"SN 119, Huyønh Tònh Cuûa",lỗi font
+64,"SN 158/20, Huỳnh Tịnh",lỗi thiếu từ
+64,"SN 342/51B, CSH Huỷnh Tĩnh Cụa",lỗi sai chính tả + thêm từ gây nhiễu
+64,"SN 527, Huýnh Tỉnh Cụa",lỗi sai chính tả
+64,"SN 591/58B, Huỳnh Tịnh ủCa",lỗi đổi thứ tự các từ
+64,"SN 63, Huỳnh Tịnh Của",không lỗi
+64,"SN 634/6C, Huỳnh Tịnh ủCa",lỗi sai chính tả + đổi thứ tự các từ
+64,"SN 751, Huỳnh Tịnh Của",không lỗi
+64,"SN 779, Không xác định Huỳnh Tịnh Của",lỗi thêm từ gây nhiễu
+64,"SN 906, Huỵnh Tĩnh",lỗi sai chính tả + thiếu từ
+64,"SN 913/88C, Huỳnh Tịnh Của",lỗi thiếu từ + đổi thứ tự các từ
+65,"SN 160/62C, Nguyễn Thị Định",không lỗi
+65,"SN 197A, Nguyễn Thị Định",lỗi thiếu từ + đổi thứ tự các từ
+65,"SN 20/25, Nguyễn Định",lỗi thiếu từ
+65,"SN 310/59B, Phố Nguyền Thỉ Đình",lỗi sai chính tả + thêm từ gây nhiễu
+65,"SN 449/41B, gNuyễn Thị Định",lỗi đổi thứ tự các từ
+65,"SN 610/3B, Nguyễn Tịh Định",lỗi sai chính tả + đổi thứ tự các từ
+65,"SN 788, Nguyeãn Thò Ñònh",lỗi font
+65,"SN 806/51, Thì Đỉnh",lỗi sai chính tả + thiếu từ
+65,"SN 880, Nguyền Thỉ Đỉnh",lỗi sai chính tả
+65,"SN 968/72, Nhà 2 tầng Nguyễn Thị Định",lỗi thêm từ gây nhiễu
+65,"SN 987/98, Nguyễn Thị Định",không lỗi
+66,"SN 245C, Vỏ Văn Kiềt",lỗi sai chính tả
+66,"SN 306, Võ Văn Kiệt",không lỗi
+66,"SN 356/28C, Vọ Kiết",lỗi sai chính tả + thiếu từ
+66,"SN 714, Phường Vỏ Văn Kiêt",lỗi sai chính tả + thêm từ gây nhiễu
+66,"SN 843, Võ Văn",lỗi thiếu từ
+66,"SN 861/90, Voõ Vaên Kieät",lỗi font
+66,"SN 868A, Võ Văn Kiệt",không lỗi
+66,"SN 87/45, Võ ăVn Kiệt",lỗi sai chính tả + đổi thứ tự các từ
+66,"SN 958, Võ Vnă Kiệt",lỗi đổi thứ tự các từ
+66,"SN 968/94, Nhà trống Võ Văn Kiệt",lỗi thêm từ gây nhiễu
+66,"SN 995, Võ Văn Kiệt",lỗi thiếu từ + đổi thứ tự các từ
+67,"SN 243/85C, Nhà 2 tầng Trần Văn Đang",lỗi thêm từ gây nhiễu
+67,"SN 323/73B, Trận Đang",lỗi sai chính tả + thiếu từ
+67,"SN 52/5B, Traàn Vaên Ñang",lỗi font
+67,"SN 530, Trần Văn Đagn",lỗi sai chính tả + đổi thứ tự các từ
+67,"SN 608, Trần Đang",lỗi thiếu từ
+67,"SN 617, Trần Văn Đang",không lỗi
+67,"SN 790B, Trận Văn Đang",lỗi sai chính tả
+67,"SN 797/61, Trần Văn Đang",không lỗi
+67,"SN 79C, Trần Vnă Đang",lỗi đổi thứ tự các từ
+67,"SN 883/84B, Trần Văn Đang",lỗi thiếu từ + đổi thứ tự các từ
+67,"SN 97, Ấp Trẫn Văn Đang",lỗi sai chính tả + thêm từ gây nhiễu
+68,"SN 286/55, CSH Nguyễn Văn Luông",lỗi thêm từ gây nhiễu
+68,"SN 369/68, Nguyễn Văn Luông",không lỗi
+68,"SN 427B, Nguyễn Văn Luông",lỗi thiếu từ + đổi thứ tự các từ
+68,"SN 709/69A, Ngyuễn Văn Luông",lỗi sai chính tả + đổi thứ tự các từ
+68,"SN 788, Nguyễn Văn",lỗi thiếu từ
+68,"SN 792/29B, Ấp Nguyền Văn Luỗng",lỗi sai chính tả + thêm từ gây nhiễu
+68,"SN 899C, Nguyễn Văn Luông",không lỗi
+68,"SN 91/32, Nguyên Văn",lỗi sai chính tả + thiếu từ
+68,"SN 935, Nguyện Văn Luỗng",lỗi sai chính tả
+68,"SN 959/62, Nguyeãn Vaên Luoâng",lỗi font
+68,"SN 961/55B, gNuyễn Văn Luông",lỗi đổi thứ tự các từ
+69,"SN 120/78, Bùi Thị Xuân",không lỗi
+69,"SN 22, Bũi Xuận",lỗi sai chính tả + thiếu từ
+69,"SN 357/10A, Phố Bùi Thị Xuân",lỗi thêm từ gây nhiễu
+69,"SN 610, Bùi Thị Xuân",lỗi thiếu từ + đổi thứ tự các từ
+69,"SN 663/68A, Không biết Bủi Thĩ Xuẩn",lỗi sai chính tả + thêm từ gây nhiễu
+69,"SN 684/89, Bùi hTị Xuân",lỗi đổi thứ tự các từ
+69,"SN 759, Bùi Xuân",lỗi thiếu từ
+69,"SN 789/82B, Buøi Thò Xuaân",lỗi font
+69,"SN 836, Búi Thì Xuẩn",lỗi sai chính tả
+69,"SN 909, Bùi Thị Xuân",không lỗi
+69,"SN 940, Bùi Thị Xâun",lỗi sai chính tả + đổi thứ tự các từ
+70,"SN 118B, Lê Hồng Phong",không lỗi
+70,"SN 404/77C, Phường Lể Hổng Phong",lỗi sai chính tả + thêm từ gây nhiễu
+70,"SN 573, Lê Hồng hPong",lỗi sai chính tả + đổi thứ tự các từ
+70,"SN 595/12C, Lễ Phong",lỗi sai chính tả + thiếu từ
+70,"SN 623, Lê Hồng Phong",không lỗi
+70,"SN 681/65B, êL Hồng Phong",lỗi đổi thứ tự các từ
+70,"SN 700/37C, Leâ Hoàng Phong",lỗi font
+70,"SN 758A, Hồng Phong",lỗi thiếu từ
+70,"SN 778/35, Nhà trống Lê Hồng Phong",lỗi thêm từ gây nhiễu
+70,"SN 817, Lê Hồng Phong",lỗi thiếu từ + đổi thứ tự các từ
+70,"SN 999C, Lễ Hổng Phong",lỗi sai chính tả
+71,"SN 23B, Phạm Văn Hai",lỗi thiếu từ + đổi thứ tự các từ
+71,"SN 335/68B, Phạm Văn aHi",lỗi sai chính tả + đổi thứ tự các từ
+71,"SN 47/76, CSH Phãm Văn Hai",lỗi sai chính tả + thêm từ gây nhiễu
+71,"SN 503/15, Phạm Văn Hai",không lỗi
+71,"SN 600C, Phạm Văn aHi",lỗi đổi thứ tự các từ
+71,"SN 662B, Không biết Phạm Văn Hai",lỗi thêm từ gây nhiễu
+71,"SN 693/34B, Phaïm Vaên Hai",lỗi font
+71,"SN 719/15, Phạm Văn Hai",không lỗi
+71,"SN 80/59A, Phạm Hai",lỗi thiếu từ
+71,"SN 96/62, Phãm Văn Hai",lỗi sai chính tả
+71,"SN 973, Phàm Hai",lỗi sai chính tả + thiếu từ
+72,"SN 140/77B, Đỗ uXân Hợp",lỗi sai chính tả + đổi thứ tự các từ
+72,"SN 514A, Đỗ Xuân ợHp",lỗi đổi thứ tự các từ
+72,"SN 727, Đỗ Xuân Hợp",không lỗi
+72,"SN 73B, Đố Xuấn Hớp",lỗi sai chính tả
+72,"SN 750/40, Đỗ Xuân Hợp",lỗi thiếu từ + đổi thứ tự các từ
+72,"SN 891B, Độ Xuấn",lỗi sai chính tả + thiếu từ
+72,"SN 891B, Xuân Hợp",lỗi thiếu từ
+72,"SN 931/53C, Nhà trống Đỗ Xuân Hợp",lỗi thêm từ gây nhiễu
+72,"SN 955/11, Phường Đổ Xuận Hỡp",lỗi sai chính tả + thêm từ gây nhiễu
+72,"SN 95A, Ñoã Xuaân Hôïp",lỗi font
+72,"SN 984, Đỗ Xuân Hợp",không lỗi
+73,"SN 190/17, Nguyễn Văn ạTo",lỗi đổi thứ tự các từ
+73,"SN 22/62C, Nguyễn Văn Tạo",lỗi thiếu từ + đổi thứ tự các từ
+73,"SN 225B, Nguyễn Văn Tạo",không lỗi
+73,"SN 226C, Nguyễn Văn Toạ",lỗi sai chính tả + đổi thứ tự các từ
+73,"SN 305C, Nguyện Văn",lỗi sai chính tả + thiếu từ
+73,"SN 344C, Nguyeãn Vaên Taïo",lỗi font
+73,"SN 444/30A, Nguyễn Văn Tạo",không lỗi
+73,"SN 615, Nguyến Văn Tảo",lỗi sai chính tả
+73,"SN 740, Nguyễn Tạo",lỗi thiếu từ
+73,"SN 832/82, Ngõ Nguyễn Văn Tạo",lỗi thêm từ gây nhiễu
+73,"SN 842/31C, Phường Nguyên Văn Tảo",lỗi sai chính tả + thêm từ gây nhiễu
+74,"SN 142/74, Phan Tôn Đức",lỗi thiếu từ + đổi thứ tự các từ
+74,"SN 143/55A, Tộn Đực",lỗi sai chính tả + thiếu từ
+74,"SN 32/11, Nhà 2 tầng Phan Tỗn Đữc",lỗi sai chính tả + thêm từ gây nhiễu
+74,"SN 469B, Phan Toân Ñöùc",lỗi font
+74,"SN 572/2C, Phan Tnô Đức",lỗi đổi thứ tự các từ
+74,"SN 648/79C, Nhà trống Phan Tôn Đức",lỗi thêm từ gây nhiễu
+74,"SN 773C, Phan Tôn Đức",không lỗi
+74,"SN 842/97B, Tôn Đức",lỗi thiếu từ
+74,"SN 87/30A, Phan ôTn Đức",lỗi sai chính tả + đổi thứ tự các từ
+74,"SN 882/9, Phan Tôn Đức",không lỗi
+74,"SN 928/33, Phan Tỗn Đữc",lỗi sai chính tả
+75,"SN 256/77A, Không xác định Nguyễn Bỉnh Khiêm",lỗi thêm từ gây nhiễu
+75,"SN 297/39, Nguyền Bình Khiếm",lỗi sai chính tả
+75,"SN 312A, Bịnh Khiếm",lỗi sai chính tả + thiếu từ
+75,"SN 368, Nguyễn Bỉnh Khiêm",không lỗi
+75,"SN 441, Nguyễn Bỉnh Khiêm",lỗi thiếu từ + đổi thứ tự các từ
+75,"SN 708/1, Nguyễn Bỉnh Khiêm",không lỗi
+75,"SN 711, Ngyuễn Bỉnh Khiêm",lỗi đổi thứ tự các từ
+75,"SN 714C, Nguyễn ỉBnh Khiêm",lỗi sai chính tả + đổi thứ tự các từ
+75,"SN 728/30B, Nguyeãn Bænh Khieâm",lỗi font
+75,"SN 739/52, Nguyễn Bỉnh",lỗi thiếu từ
+75,"SN 949B, Không biết Nguyện Bịnh Khiếm",lỗi sai chính tả + thêm từ gây nhiễu
+76,"SN 106/19, Nguyễn Văn ứT",lỗi sai chính tả + đổi thứ tự các từ
+76,"SN 255/43B, Phố Nguyến Văn Tư",lỗi sai chính tả + thêm từ gây nhiễu
+76,"SN 316/91A, Nugyễn Văn Tứ",lỗi đổi thứ tự các từ
+76,"SN 496B, Nguyền Văn Từ",lỗi sai chính tả
+76,"SN 538, Nguyeãn Vaên Töù",lỗi font
+76,"SN 679, Nguyễn Văn Tứ",không lỗi
+76,"SN 716/60A, Nguyễn Văn Tứ",lỗi thiếu từ + đổi thứ tự các từ
+76,"SN 763A, Nguyễn Văn Tứ",không lỗi
+76,"SN 767A, Nguyễn Văn",lỗi thiếu từ
+76,"SN 846, Phường Nguyễn Văn Tứ",lỗi thêm từ gây nhiễu
+76,"SN 947A, Nguyến Văn",lỗi sai chính tả + thiếu từ
+77,"SN 147C, Lê Thanh Nghị",lỗi thiếu từ + đổi thứ tự các từ
+77,"SN 201/4B, Lê Thanh",lỗi thiếu từ
+77,"SN 305/16B, Nhà 2 tầng Lế Thanh Nghĩ",lỗi sai chính tả + thêm từ gây nhiễu
+77,"SN 338, êL Thanh Nghị",lỗi sai chính tả + đổi thứ tự các từ
+77,"SN 485/88A, Lê Thnah Nghị",lỗi đổi thứ tự các từ
+77,"SN 508A, Lế Nghĩ",lỗi sai chính tả + thiếu từ
+77,"SN 554A, Lễ Thanh Nghỉ",lỗi sai chính tả
+77,"SN 795A, Nhà 2 tầng Lê Thanh Nghị",lỗi thêm từ gây nhiễu
+77,"SN 816/86A, Lê Thanh Nghị",không lỗi
+77,"SN 939, Leâ Thanh Nghò",lỗi font
+77,"SN 940/18, Lê Thanh Nghị",không lỗi
+78,"SN 142, Phạm Văn Chiêu",không lỗi
+78,"SN 143B, Hẻm Phạm Văn Chiêu",lỗi thêm từ gây nhiễu
+78,"SN 179/24B, Phạm Vnă Chiêu",lỗi đổi thứ tự các từ
+78,"SN 318/94B, Văn Chiều",lỗi sai chính tả + thiếu từ
+78,"SN 518/95C, Phạm Văn Chiêu",không lỗi
+78,"SN 589/67, Không biết Phám Văn Chiễu",lỗi sai chính tả + thêm từ gây nhiễu
+78,"SN 80, Phạm Văn Chiêu",lỗi thiếu từ + đổi thứ tự các từ
+78,"SN 820/92A, Văn Chiêu",lỗi thiếu từ
+78,"SN 875, Phaïm Vaên Chieâu",lỗi font
+78,"SN 902, Phảm Văn Chiếu",lỗi sai chính tả
+78,"SN 965, Phạm Vnă Chiêu",lỗi sai chính tả + đổi thứ tự các từ
+79,"SN 108C, Huỳnh Vnă Lũy",lỗi đổi thứ tự các từ
+79,"SN 17/87B, Huỳnh Văn Lũy",lỗi thiếu từ + đổi thứ tự các từ
+79,"SN 247/15C, Phường Huỷnh Văn Lụy",lỗi sai chính tả + thêm từ gây nhiễu
+79,"SN 258, Huỳnh Văn Lũy",không lỗi
+79,"SN 527/74, Huýnh Văn Lùy",lỗi sai chính tả
+79,"SN 546, Huyønh Vaên Luõy",lỗi font
+79,"SN 551/54, Huỹnh Văn",lỗi sai chính tả + thiếu từ
+79,"SN 709B, Huỳnh Văn Lũy",không lỗi
+79,"SN 796/81, Huỳnh Văn",lỗi thiếu từ
+79,"SN 801C, Hunỳh Văn Lũy",lỗi sai chính tả + đổi thứ tự các từ
+79,"SN 897A, Nhà trống Huỳnh Văn Lũy",lỗi thêm từ gây nhiễu
+80,"SN 177/23, Trấn Giảu",lỗi sai chính tả + thiếu từ
+80,"SN 184/22, Traàn Vaên Giaøu",lỗi font
+80,"SN 416/93A, Trần Văn Giàu",lỗi thiếu từ + đổi thứ tự các từ
+80,"SN 446, Trần Giàu",lỗi thiếu từ
+80,"SN 676/93C, Trần Văn iGàu",lỗi đổi thứ tự các từ
+80,"SN 685/15, Trần Văn Giàu",không lỗi
+80,"SN 781A, Trần Văn Giàu",không lỗi
+80,"SN 904A, Nhà trống Trấn Văn Giãu",lỗi sai chính tả + thêm từ gây nhiễu
+80,"SN 916/17, Trần Văn iGàu",lỗi sai chính tả + đổi thứ tự các từ
+80,"SN 95, Không biết Trần Văn Giàu",lỗi thêm từ gây nhiễu
+80,"SN 980, Trấn Văn Giáu",lỗi sai chính tả
+81,"SN 110/5, Đinh Cổng Trãng",lỗi sai chính tả
+81,"SN 128/31, Không biết Đinh Cỗng Trãng",lỗi sai chính tả + thêm từ gây nhiễu
+81,"SN 187/61B, Ñinh Coâng Traùng",lỗi font
+81,"SN 246, Đinh Công Tráng",lỗi thiếu từ + đổi thứ tự các từ
+81,"SN 33/30C, Đinh Tráng",lỗi thiếu từ
+81,"SN 336A, Đinh Trảng",lỗi sai chính tả + thiếu từ
+81,"SN 395, Đinh ôCng Tráng",lỗi đổi thứ tự các từ
+81,"SN 661, Đinh Công Tráng",không lỗi
+81,"SN 675A, Đinh Công Tráng",không lỗi
+81,"SN 763/27, Nhà 2 tầng Đinh Công Tráng",lỗi thêm từ gây nhiễu
+81,"SN 928, Đinh Công Trnág",lỗi sai chính tả + đổi thứ tự các từ
+82,"SN 178/51B, Nguyến Văn Mài",lỗi sai chính tả
+82,"SN 178/76, Nguyễn Văn Mại",lỗi thiếu từ + đổi thứ tự các từ
+82,"SN 265/87A, Nhà 2 tầng Nguyền Văn Mãi",lỗi sai chính tả + thêm từ gây nhiễu
+82,"SN 681C, Nhà 2 tầng Nguyễn Văn Mại",lỗi thêm từ gây nhiễu
+82,"SN 691/15B, Nguyễn Văn Miạ",lỗi đổi thứ tự các từ
+82,"SN 700, Nguyến Văn",lỗi sai chính tả + thiếu từ
+82,"SN 751/71A, Nguyeãn Vaên Maïi",lỗi font
+82,"SN 838, Văn Mại",lỗi thiếu từ
+82,"SN 857/37, Nguyễn Văn Mại",không lỗi
+82,"SN 902C, Nguyễn Văn Mại",không lỗi
+82,"SN 962C, Nguyễn Văn Miạ",lỗi sai chính tả + đổi thứ tự các từ
+83,"SN 109/16A, Nguyễn Thiện hTuật",lỗi đổi thứ tự các từ
+83,"SN 145/46, Không xác định Nguyễn Thiện Thuật",lỗi thêm từ gây nhiễu
+83,"SN 194B, Nguyễn Thiện Thuật",lỗi thiếu từ + đổi thứ tự các từ
+83,"SN 221/17, CSH Nguyền Thiển Thuât",lỗi sai chính tả + thêm từ gây nhiễu
+83,"SN 23A, Nguyện Thiển Thuầt",lỗi sai chính tả
+83,"SN 38A, Nguyễn Thiện Thuật",không lỗi
+83,"SN 427/90, Nguyền Thiến",lỗi sai chính tả + thiếu từ
+83,"SN 43, Nugyễn Thiện Thuật",lỗi sai chính tả + đổi thứ tự các từ
+83,"SN 531, Nguyễn Thiện",lỗi thiếu từ
+83,"SN 612/35, Nguyễn Thiện Thuật",không lỗi
+83,"SN 966/46, Nguyeãn Thieän Thuaät",lỗi font
+84,"SN 100B, Không xác định Nguyền Văn Lồc",lỗi sai chính tả + thêm từ gây nhiễu
+84,"SN 262/21, Nguyễn Văn Lcộ",lỗi sai chính tả + đổi thứ tự các từ
+84,"SN 29/90B, Nguyễn Văn Lộc",lỗi thiếu từ + đổi thứ tự các từ
+84,"SN 323, Nguyễn Văn Lộc",không lỗi
+84,"SN 492/48C, Nguyên Văn",lỗi sai chính tả + thiếu từ
+84,"SN 52/29, Không biết Nguyễn Văn Lộc",lỗi thêm từ gây nhiễu
+84,"SN 580/89, Nguyễn Văn Lộc",không lỗi
+84,"SN 6, Nguyễn Văn",lỗi thiếu từ
+84,"SN 657/79, Nguyên Văn Lỗc",lỗi sai chính tả
+84,"SN 720, Nguyeãn Vaên Loäc",lỗi font
+84,"SN 939C, Nguễyn Văn Lộc",lỗi đổi thứ tự các từ
+85,"SN 289/16, Trnầ Văn Kỷ",lỗi đổi thứ tự các từ
+85,"SN 313, Traàn Vaên Kyû",lỗi font
+85,"SN 331, Trần Văn Kỷ",không lỗi
+85,"SN 339/56, Trần Văn Kỷ",lỗi thiếu từ + đổi thứ tự các từ
+85,"SN 453C, Trần Kỷ",lỗi thiếu từ
+85,"SN 574B, CSH Trận Văn Ký",lỗi sai chính tả + thêm từ gây nhiễu
+85,"SN 614/24, Trấn Văn Ký",lỗi sai chính tả
+85,"SN 627, Trnầ Văn Kỷ",lỗi sai chính tả + đổi thứ tự các từ
+85,"SN 718C, Trần Văn Kỷ",không lỗi
+85,"SN 991/20A, Trấn Văn",lỗi sai chính tả + thiếu từ
+85,"SN 997/76A, Phố Trần Văn Kỷ",lỗi thêm từ gây nhiễu
+86,"SN 194/51, õV Thị Sáu",lỗi đổi thứ tự các từ
+86,"SN 287/6A, Phường Vó Thì Sãu",lỗi sai chính tả + thêm từ gây nhiễu
+86,"SN 341/9A, Vỏ Sàu",lỗi sai chính tả + thiếu từ
+86,"SN 387, Võ Thị Sáu",lỗi thiếu từ + đổi thứ tự các từ
+86,"SN 572B, Voõ Thò Saùu",lỗi font
+86,"SN 619A, Võ Thị",lỗi thiếu từ
+86,"SN 623A, Võ Thị Sáu",không lỗi
+86,"SN 718/38, Vó Thì Sảu",lỗi sai chính tả
+86,"SN 742C, Phố Võ Thị Sáu",lỗi thêm từ gây nhiễu
+86,"SN 746/99B, Võ Thị áSu",lỗi sai chính tả + đổi thứ tự các từ
+86,"SN 913, Võ Thị Sáu",không lỗi
+87,"SN 205, Nguyện Khuyên",lỗi sai chính tả
+87,"SN 207/57B, Hẻm Nguyên Khuyễn",lỗi sai chính tả + thêm từ gây nhiễu
+87,"SN 245C, Khuyến",lỗi thiếu từ
+87,"SN 258A, Nguyeãn Khuyeán",lỗi font
+87,"SN 259A, Nguyễn Khuynế",lỗi sai chính tả + đổi thứ tự các từ
+87,"SN 408/90, Nguyễn Khuyến",không lỗi
+87,"SN 430A, Nguyễn Khuyến",không lỗi
+87,"SN 639/79A, Nguyễn Khuyến",lỗi thiếu từ + đổi thứ tự các từ
+87,"SN 792/57, Nhà 2 tầng Nguyễn Khuyến",lỗi thêm từ gây nhiễu
+87,"SN 820, Khuyên",lỗi sai chính tả + thiếu từ
+87,"SN 87C, Nguyễn hKuyến",lỗi đổi thứ tự các từ
+88,"SN 245/31, Nguyễn Văn Hưởng",không lỗi
+88,"SN 26/87, Nhà trống Nguyễn Văn Hưởng",lỗi thêm từ gây nhiễu
+88,"SN 288B, Nguyễn Vnă Hưởng",lỗi sai chính tả + đổi thứ tự các từ
+88,"SN 459/55C, Văn Hưởng",lỗi thiếu từ
+88,"SN 527/64A, Nguyễn Văn Hưởng",lỗi thiếu từ + đổi thứ tự các từ
+88,"SN 584, CSH Nguyển Văn Hửỡng",lỗi sai chính tả + thêm từ gây nhiễu
+88,"SN 618A, Nguyễn Vnă Hưởng",lỗi đổi thứ tự các từ
+88,"SN 631, Nguyện Văn Hứờng",lỗi sai chính tả
+88,"SN 652A, Nguyến Hửơng",lỗi sai chính tả + thiếu từ
+88,"SN 700, Nguyeãn Vaên Höôûng",lỗi font
+88,"SN 765, Nguyễn Văn Hưởng",không lỗi
+89,"SN 156/93, Nugyễn Văn Đậu",lỗi sai chính tả + đổi thứ tự các từ
+89,"SN 158/20, Nguyễn Văn Đậu",không lỗi
+89,"SN 230/34, Ấp Nguyên Văn Đẩu",lỗi sai chính tả + thêm từ gây nhiễu
+89,"SN 25C, Nguyễn Văn",lỗi thiếu từ
+89,"SN 266C, Không biết Nguyễn Văn Đậu",lỗi thêm từ gây nhiễu
+89,"SN 296, Nguyên Văn Đấu",lỗi sai chính tả
+89,"SN 716B, Nguyễn Văn Đậu",không lỗi
+89,"SN 784/21, Nguyeãn Vaên Ñaäu",lỗi font
+89,"SN 83/9, Nguyên Đẫu",lỗi sai chính tả + thiếu từ
+89,"SN 898A, gNuyễn Văn Đậu",lỗi đổi thứ tự các từ
+89,"SN 930/10, Nguyễn Văn Đậu",lỗi thiếu từ + đổi thứ tự các từ
+90,"SN 133/17A, Trương Định",không lỗi
+90,"SN 241/8A, Trương Định",không lỗi
+90,"SN 290A, Không biết Trừợng Đình",lỗi sai chính tả + thêm từ gây nhiễu
+90,"SN 304A, rTương Định",lỗi đổi thứ tự các từ
+90,"SN 481A, Trương Định",lỗi thiếu từ + đổi thứ tự các từ
+90,"SN 605/70A, Trơưng Định",lỗi sai chính tả + đổi thứ tự các từ
+90,"SN 665, Tröông Ñònh",lỗi font
+90,"SN 715, Đỉnh",lỗi sai chính tả + thiếu từ
+90,"SN 743/10, Định",lỗi thiếu từ
+90,"SN 83, Ấp Trương Định",lỗi thêm từ gây nhiễu
+90,"SN 863/78B, Trừờng Đình",lỗi sai chính tả
+91,"SN 246/44C, Lệ Văn Tãm",lỗi sai chính tả
+91,"SN 348/38C, Lê Văn Tám",không lỗi
+91,"SN 43B, Lể Văn",lỗi sai chính tả + thiếu từ
+91,"SN 489A, Ấp Lê Văn Tám",lỗi thêm từ gây nhiễu
+91,"SN 511/20, Lê ăVn Tám",lỗi sai chính tả + đổi thứ tự các từ
+91,"SN 54/96C, Leâ Vaên Taùm",lỗi font
+91,"SN 601/29, Lê Văn Tám",lỗi thiếu từ + đổi thứ tự các từ
+91,"SN 854, Lê Văn Tám",không lỗi
+91,"SN 899A, Nhà 2 tầng Lể Văn Tảm",lỗi sai chính tả + thêm từ gây nhiễu
+91,"SN 990/58B, êL Văn Tám",lỗi đổi thứ tự các từ
+91,"SN 995/24, Lê Tám",lỗi thiếu từ
+92,"SN 169/37, Quộc Hoãn",lỗi sai chính tả + thiếu từ
+92,"SN 301/92A, Ấp Trần Quốc Hoàn",lỗi thêm từ gây nhiễu
+92,"SN 532/99, Trần Quốc Hoàn",không lỗi
+92,"SN 58, Trần Hoàn",lỗi thiếu từ
+92,"SN 620, Hẻm Trẫn Quổc Hoạn",lỗi sai chính tả + thêm từ gây nhiễu
+92,"SN 677, Trnầ Quốc Hoàn",lỗi đổi thứ tự các từ
+92,"SN 760/12A, Trần Quốc Hoàn",lỗi thiếu từ + đổi thứ tự các từ
+92,"SN 820/4, Trần uQốc Hoàn",lỗi sai chính tả + đổi thứ tự các từ
+92,"SN 898/61, Trần Quốc Hoàn",không lỗi
+92,"SN 940/10, Trẩn Quôc Hoạn",lỗi sai chính tả
+92,"SN 97/70B, Traàn Quoác Hoaøn",lỗi font
+93,"SN 164, Nguyễn Trnọg Tuyển",lỗi sai chính tả + đổi thứ tự các từ
+93,"SN 237/6A, Nhà trống Nguyên Tròng Tuyện",lỗi sai chính tả + thêm từ gây nhiễu
+93,"SN 24/86, Nguyền Trõng Tuyễn",lỗi sai chính tả
+93,"SN 28/76, Nguyễn Trọng Tuyển",không lỗi
+93,"SN 285/99, Nguyeãn Troïng Tuyeån",lỗi font
+93,"SN 32/69, Nguyễn Trọng Tuyển",không lỗi
+93,"SN 330/29, Trõng Tuyến",lỗi sai chính tả + thiếu từ
+93,"SN 623/90A, Ấp Nguyễn Trọng Tuyển",lỗi thêm từ gây nhiễu
+93,"SN 683/16, Nguyễn Trọng Tuynể",lỗi đổi thứ tự các từ
+93,"SN 956/40B, Nguyễn Trọng Tuyển",lỗi thiếu từ + đổi thứ tự các từ
+93,"SN 967, Trọng Tuyển",lỗi thiếu từ
+94,"SN 13/40B, Không biết Đặng Thải Mai",lỗi sai chính tả + thêm từ gây nhiễu
+94,"SN 215/37, Đặng Thái Mai",lỗi thiếu từ + đổi thứ tự các từ
+94,"SN 225, Đặng Mai",lỗi thiếu từ
+94,"SN 29, Đặng Thài Mai",lỗi sai chính tả
+94,"SN 46/59A, Đặng Thái aMi",lỗi sai chính tả + đổi thứ tự các từ
+94,"SN 591/38, Ngõ Đặng Thái Mai",lỗi thêm từ gây nhiễu
+94,"SN 602/85B, Ñaëng Thaùi Mai",lỗi font
+94,"SN 713C, Đặng Thái Mai",không lỗi
+94,"SN 717A, Đặng Thiá Mai",lỗi đổi thứ tự các từ
+94,"SN 763/67B, Đặng Thái Mai",không lỗi
+94,"SN 765/67A, Đặng Mai",lỗi sai chính tả + thiếu từ
+95,"SN 140/27, Nguyễn Phúc Nugyên",lỗi đổi thứ tự các từ
+95,"SN 175/48A, Nguyễn Nguyên",lỗi thiếu từ
+95,"SN 410B, Phục Nguyến",lỗi sai chính tả + thiếu từ
+95,"SN 535, Nguyễn Phúc Nguyên",không lỗi
+95,"SN 65B, Nguyễn Phúc Nguêyn",lỗi sai chính tả + đổi thứ tự các từ
+95,"SN 660C, Ấp Nguyển Phục Nguyền",lỗi sai chính tả + thêm từ gây nhiễu
+95,"SN 766/58, Nguyễn Phúc Nguyên",không lỗi
+95,"SN 783/80A, Nguyễn Phúc Nguyên",lỗi thiếu từ + đổi thứ tự các từ
+95,"SN 838A, Nguyền Phủc Nguyện",lỗi sai chính tả
+95,"SN 866, Ngõ Nguyễn Phúc Nguyên",lỗi thêm từ gây nhiễu
+95,"SN 973/73, Nguyeãn Phuùc Nguyeân",lỗi font
+96,"SN 259/33, Phan Đăng Lừu",lỗi sai chính tả
+96,"SN 309C, Phan Lựu",lỗi sai chính tả + thiếu từ
+96,"SN 362/29C, Phan Ñaêng Löu",lỗi font
+96,"SN 441/29A, Phan Đăng Lưu",không lỗi
+96,"SN 475/90B, Phan Đăgn Lưu",lỗi sai chính tả + đổi thứ tự các từ
+96,"SN 546/10A, Phan Lưu",lỗi thiếu từ
+96,"SN 650, Phna Đăng Lưu",lỗi đổi thứ tự các từ
+96,"SN 734/19, Phan Đăng Lưu",không lỗi
+96,"SN 738, Phường Phan Đăng Lữu",lỗi sai chính tả + thêm từ gây nhiễu
+96,"SN 782/51C, Phường Phan Đăng Lưu",lỗi thêm từ gây nhiễu
+96,"SN 868C, Phan Đăng Lưu",lỗi thiếu từ + đổi thứ tự các từ
+97,"SN 191B, Huỳnh Nghệ",lỗi thiếu từ
+97,"SN 21/75C, Huỳnh ăVn Nghệ",lỗi đổi thứ tự các từ
+97,"SN 225/37, Văn Nghê",lỗi sai chính tả + thiếu từ
+97,"SN 239A, Huyønh Vaên Ngheä",lỗi font
+97,"SN 265B, Huỳnh Văn Nghệ",không lỗi
+97,"SN 325/8, Ngõ Huỵnh Văn Nghê",lỗi sai chính tả + thêm từ gây nhiễu
+97,"SN 426, Huỳnh Văn Nghệ",không lỗi
+97,"SN 645/76, Ấp Huỳnh Văn Nghệ",lỗi thêm từ gây nhiễu
+97,"SN 788, Huỳnh Văn Nghệ",lỗi thiếu từ + đổi thứ tự các từ
+97,"SN 913B, Huỳnh Vnă Nghệ",lỗi sai chính tả + đổi thứ tự các từ
+97,"SN 982, Huýnh Văn Nghế",lỗi sai chính tả
+98,"SN 120, Không biết Trương Quốc Dung",lỗi thêm từ gây nhiễu
+98,"SN 354A, Trương Quốc Dung",lỗi thiếu từ + đổi thứ tự các từ
+98,"SN 506B, Trương Qucố Dung",lỗi đổi thứ tự các từ
+98,"SN 649B, Phường Trứớng Quồc Dung",lỗi sai chính tả + thêm từ gây nhiễu
+98,"SN 757, Trương Quốc uDng",lỗi sai chính tả + đổi thứ tự các từ
+98,"SN 763A, Quổc Dung",lỗi sai chính tả + thiếu từ
+98,"SN 845/55, Trựỡng Quộc Dung",lỗi sai chính tả
+98,"SN 865B, Trương Quốc Dung",không lỗi
+98,"SN 908, Trương Dung",lỗi thiếu từ
+98,"SN 913/26, Tröông Quoác Dung",lỗi font
+98,"SN 989B, Trương Quốc Dung",không lỗi
+99,"SN 109, Nguyền Thò",lỗi sai chính tả + thiếu từ
+99,"SN 182C, Nguyễn Hữu Thọ",không lỗi
+99,"SN 342/85C, Không biết Nguyển Hứu Thó",lỗi sai chính tả + thêm từ gây nhiễu
+99,"SN 388/93B, Nguyển Hựu Thó",lỗi sai chính tả
+99,"SN 459, Nguyeãn Höõu Thoï",lỗi font
+99,"SN 485/46C, Nguyễn Hữu Tọh",lỗi đổi thứ tự các từ
+99,"SN 568/30, Ấp Nguyễn Hữu Thọ",lỗi thêm từ gây nhiễu
+99,"SN 64/61C, gNuyễn Hữu Thọ",lỗi sai chính tả + đổi thứ tự các từ
+99,"SN 643C, Nguyễn Hữu Thọ",không lỗi
+99,"SN 677/51A, Nguyễn Thọ",lỗi thiếu từ
+99,"SN 829A, Nguyễn Hữu Thọ",lỗi thiếu từ + đổi thứ tự các từ
+100,"SN 217/12, Đặng Sẩm",lỗi sai chính tả + thiếu từ
+100,"SN 235, Đặng Văn Sâm",không lỗi
+100,"SN 264/27, Nhà 2 tầng Đặng Văn Sậm",lỗi sai chính tả + thêm từ gây nhiễu
+100,"SN 342, ặĐng Văn Sâm",lỗi sai chính tả + đổi thứ tự các từ
+100,"SN 593, Đặng Sâm",lỗi thiếu từ
+100,"SN 693, Đặng Văn Sâm",không lỗi
+100,"SN 723C, Ñaëng Vaên Saâm",lỗi font
+100,"SN 810/57, Nhà trống Đặng Văn Sâm",lỗi thêm từ gây nhiễu
+100,"SN 832, Đặgn Văn Sâm",lỗi đổi thứ tự các từ
+100,"SN 939, Đặng Văn Sẩm",lỗi sai chính tả
+100,"SN 972/57A, Đặng Văn Sâm",lỗi thiếu từ + đổi thứ tự các từ
